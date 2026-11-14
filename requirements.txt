@@ -21,7 +21,7 @@ decorator==5.1.1
 defer==1.0.6
 distro==1.7.0
 distro-info==1.1+ubuntu0.2
-dnspython==2.6.1
+dnspython==2.9.2
 docker==5.0.3
 docker-compose==1.29.2
 dockerpty==0.4.1
