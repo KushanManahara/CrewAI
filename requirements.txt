@@ -121,7 +121,7 @@ stevedore==5.2.0
 systemd-python==234
 texttable==1.6.4
 tinyrpc==1.1.7
-tornado==6.4
+tornado==6.6.1
 traitlets==5.14.3
 typing_extensions==4.11.0
 ubuntu-drivers-common==0.0.0
